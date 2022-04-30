@@ -1,0 +1,274 @@
+body{
+    background-color: #d1cfda;
+}
+#Home
+{
+    background-color: #fefeff;
+    padding: 40px 10%;
+}
+nav{
+    font-size: x-large;
+    text-align: center;
+}
+nav a{
+    padding-inline: 10px;
+    text-decoration: none;
+}
+.abu{
+    float: left;
+    color: #000;
+}
+.abu1{
+    float: left;
+    color: #00a792;
+}
+.serve{
+    color: #00a792;
+    text-decoration: none;
+}
+.work{
+    color: #000;
+}
+.talk-btn{
+float: right;
+border-radius: 20px;
+font-size: 15px;
+background-color: rgb(97, 97, 197);
+color: rgb(252, 250, 250);
+border: none;
+padding: 10px 30px;
+}
+.fa{
+    border: 10px solid #ffc100;
+    border-radius: 80%;
+    margin-right: 10px;
+    margin-top: 8%;
+    background-color: #ffc100;
+}
+.home{
+    display: flex;
+    margin-top: 4%;
+    
+}
+.home-text{
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+}
+.home-img{
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: medium;
+}
+.box{
+    display: flex;
+    padding: 20px 10%;
+   
+}
+.box>div{
+    background-color: #f1e8e8;
+    width: 300px;
+    margin: 0.5px;
+    text-align: center;
+    line-height: 30px;
+    
+
+}
+.logo{
+    display: flex;
+    justify-content: center;
+}
+.logo>div{
+    width: 300px;
+    margin: 0.5px;
+    text-align: center;
+    line-height: 30px;  
+}
+#page2{
+    background-color: #fefeff;
+    padding: 40px 10%;   
+}
+.head{
+    text-align: center;
+}
+h2{
+    font-size: 40px;
+}
+.service{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+.service>div{
+    width: 300px;
+    margin: 0.5px;
+    padding: 20px;
+    line-height: 30px; 
+}
+.service2{
+    background-color: #00a792;
+    color: white;
+}
+.service1{
+background-color: #e8f5ff;
+}
+.service3{
+    background-color: #e8f5ff;
+}
+.bull{
+    border: 10px solid #ffc100;
+    width: 8%;
+    font-size: x-large;
+    border-radius: 80%;
+    margin-right: 10px;
+    margin-top: 8%;
+    background-color: #ffc100;  
+}
+.work{
+    display: flex;
+    margin-top: 5%;
+
+}
+.work-img{
+    width: 60%;
+    align-content: center;
+}
+.work-text{
+    width: 40%;
+    align-content: center;
+}
+.update{
+    display: flex;
+    padding: 150px 10px;
+
+
+}
+.update1{
+    border: 1px #8f2b44;
+    height: 40.0vh;
+    width: 60.0vw;
+    padding-left: 150px;
+    border-radius: 8px;
+    
+}
+.sub{
+   border-radius: 10px;
+   padding: 15px 40px;
+   background-color: rgba(0,163,172,255);
+   color: rgb(253, 252, 252);
+   font-size: 15px;
+   text-decoration: none;
+   border: none;
+   margin-left: -25.8%;
+}
+.input{
+    width: 40.7vw;
+    height:10.2vh ;
+    border-radius: 8px;
+    border: none;
+    font-size: medium;
+    background-color: #14a18f;
+}
+#page3{
+justify-content: center;
+    background-color: #fefeff; 
+}
+
+.plast{
+    margin-left: 120px;
+}
+.update2{
+    margin-left: 80px;
+}
+#page4{
+    background-color: #f1e8e8;
+
+}
+.space{
+    width: 99%;
+    padding: 0.5%;
+    background-color: rgb(209, 183, 226);
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 8%;
+    padding: 20px 50px;
+}
+.footer-text{
+    width: 50%;
+    align-items: center;
+
+}
+.footer-img{
+    width: 50%;
+    align-items: center;
+}
+.first-btn{
+    border-radius: 10px;   
+    border: none;
+    padding: 10px 30px;
+    font-size: 15px;
+    background-color:rgb(248, 248, 252) ;
+}
+.first-btn1{
+    border-radius: 10px;   
+    border: none;
+    padding: 10px 30px;
+    font-size: 15px;
+    background-color:rgb(97, 97, 197) ;
+    color: #a7a0c9;
+}
+.howe{
+  color:#14a18f ;
+  text-decoration: none;  
+}
+.round{
+    border-radius: 80px;
+    border: none;
+    background-color:#14a18f ;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+.round1{
+    border-radius: 80px;
+    border: none;
+    background-color:#4264d3 ;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+.round2{
+    border-radius: 80px;
+    border: none;
+    background-color:#f3de1f ;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+.send{
+    border-radius: 10px;   
+    border: none;
+    padding: 10px 30px;
+    font-size: 15px;
+    background-color:#14a18f ;
+    color: #f3f2fa;
+    margin-top: 5%;
+}
+.mess{
+    height: 50px;
+    width: 200px;
+    background-color: rgb(252, 241, 243);
+    border: none;
+    margin-top: 2%;
+}
+.fullname{
+    height: 20px;
+    background-color: rgb(252, 241, 243);
+    border: none;
+
+}
